@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://visitor-badge.glitch.me/badge?page_id=xieww.readme)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xieww&show_icons=true&theme=radical)](https://github.com/xieww)
 
