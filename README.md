@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=xieww.readme)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xieww&show_icons=true&theme=radical)](https://github.com/xieww)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xieww&show_icons=true&theme=radical&count_private=true&&bg_color=120,fa709a,fee140&title_color=fff&text_color=fff)](https://github.com/xieww)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xieww)](https://github.com/xieww)
 
